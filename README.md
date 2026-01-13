@@ -13,3 +13,5 @@ https://github.com/clach04/learning-c-with-pebble-exercises
 NOTE as of 2026 there are references to CloudPebble which is no longer available/recommended.
 Instead see either GitHub codespaces or local SDK.
 For information on codespaces see https://github.com/clach04/pebble_watchface_framework#instructions
+
+Get started https://clach04.github.io/learning-c-with-pebble/SUMMARY
