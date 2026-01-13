@@ -1,6 +1,6 @@
 # Summary
 
-* [Preface](README.md)
+* [Preface](preface.md)
 * [Chapter 1: Introduction](chapter01.md)
 * [Chapter 2: First Things First](chapter02.md)
 * [Chapter 3: Variables and Other Basics](chapter03.md)
