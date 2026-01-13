@@ -14,6 +14,8 @@ NOTE as of 2026 there are references to CloudPebble which is no longer available
 Instead see either GitHub codespaces or local SDK.
 For information on codespaces see https://github.com/clach04/pebble_watchface_framework#instructions
 
+First announced https://developer.rebble.io/blog/2016/05/11/Learning-C-with-Pebble-The-Book/
+
 Get started https://clach04.github.io/learning-c-with-pebble/SUMMARY
 
 For original PDF https://github.com/clach04/PebbleArchive/blob/mine/learning-c-with-pebble%20final.pdf
