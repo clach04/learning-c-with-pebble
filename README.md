@@ -15,3 +15,5 @@ Instead see either GitHub codespaces or local SDK.
 For information on codespaces see https://github.com/clach04/pebble_watchface_framework#instructions
 
 Get started https://clach04.github.io/learning-c-with-pebble/SUMMARY
+
+For original PDF https://github.com/clach04/PebbleArchive/blob/mine/learning-c-with-pebble%20final.pdf
